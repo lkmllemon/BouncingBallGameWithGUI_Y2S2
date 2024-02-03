@@ -13,3 +13,5 @@
 
 ![image](https://github.com/lkmllemon/BouncingBallGameWithGUI_Y2S2/assets/76756859/80f0b162-e487-4426-bef4-b11f27a11513)
 
+![image](https://github.com/lkmllemon/BouncingBallGameWithGUI_Y2S2/assets/76756859/db71c878-d2df-4757-ba12-ba4a18966aa2)
+
